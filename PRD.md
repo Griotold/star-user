@@ -1,5 +1,5 @@
 # PRD: 유저 서비스
-
+<img width="857" height="455" alt="Image" src="https://github.com/user-attachments/assets/46fecfb6-05d9-46be-8175-7e0bc6e8b62b" />
 ## 핵심 기능
 
 유저 서비스는 다음과 같은 기능을 제공합니다.
